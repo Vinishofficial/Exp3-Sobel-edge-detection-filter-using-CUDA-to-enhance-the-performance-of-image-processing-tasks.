@@ -244,8 +244,6 @@ plt.show()
 <img width="1127" height="989" alt="image" src="https://github.com/user-attachments/assets/bcb80f59-fdc9-44fe-97f8-92d05ed7c8c6" />
 
 
-## RESULT:
-Thus the program has been executed by using CUDA to ________________.
 
 ## Answers to Questions
 
